@@ -1,7 +1,8 @@
 
 # Manhole Detection
 
-## Commands
+## commands
+## Create the tensorflow environment
 ```bash
 C:\> conda create -n tensorflowone pip python=3.5
 C:\> activate tensorflow1
