@@ -1,7 +1,7 @@
 
 # Manhole Detection
 
-## commands
+## Commands
 ## Create the tensorflow environment
 ```bash
 C:\> conda create -n tensorflowone pip python=3.5
@@ -23,7 +23,7 @@ C:\> activate tensorflow1
 (tensorflowone)C:\> pip install opencv-python
 ``` 
 
-# create a folder with name tensorflow1 and paste the contents of this repository there.
+# Create a folder with name tensorflow1 and paste the contents of this repository there.
 
 ```bash
 (tensorflowone) C:\> set PYTHONPATH=C:\tensorflow1\models;C:\tensorflow1\models\research;C:\tensorflow1\models\research\slim
@@ -44,18 +44,18 @@ C:\> activate tensorflow1
 (tensorflowone)C:\tensorflow1\models\research\object_detection> python xml_to_csv.py
 ```
 
-## tf records
+## Generate tf records
 ``` bash
 python generate_tfrecord.py --csv_input=images\train_labels.csv --image_dir=images\train --output_path=train.record
 
 python generate_tfrecord.py --csv_input=images\test_labels.csv --image_dir=images\test --output_path=test.record
 ```
-## train the model
+## Model Training
 ``` bash
 python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_inception_v2_pets.config
 ```
 
-## generate the model file
+## Generate the model file
 ``` bash
 python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/faster_rcnn_inception_v2_pets.config --trained_checkpoint_prefix training/model.ckpt-XXXX --output_directory inference_graph
 ```
