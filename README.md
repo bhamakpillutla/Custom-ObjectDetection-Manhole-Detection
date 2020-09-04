@@ -28,7 +28,8 @@ C:\> activate tensorflowone
 * (tensorflowone)C:\> pip install pandas
 * (tensorflowone)C:\> pip install opencv-python
 ``` 
-
+## Packages Image in the environment 
+![Alt Text](https://github.com/bhamakpillutla/Custom-ObjectDetection-Manhole-Detection/blob/master/models/research/object_detection/PackagesImage.JPG)
 ## Create a folder with name tensorflow1 and paste the contents of this repository there.
 
 ```bash
