@@ -3,6 +3,9 @@
 
 This project identifies manholes- open and closed, persons and cars.
 
+Format: ![Alt Text](https://github.com/bhamakpillutla/Custom-ObjectDetection-Manhole-Detection/blob/master/models/research/object_detection/Output/capture2122.JPG)
+
+
 ## Commands
 ## Create the tensorflow environment
 ```bash
