@@ -1,5 +1,4 @@
-
-#Manhole Detection Steps:
+#Manhole Detection
 
 
 C:\> conda create -n tensorflowone pip python=3.5
