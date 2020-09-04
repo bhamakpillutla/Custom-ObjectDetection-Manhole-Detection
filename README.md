@@ -11,7 +11,7 @@ This project identifies manholes- open and closed, persons and cars.
 ## Create the tensorflow environment
 ```bash
 C:\> conda create -n tensorflowone pip python=3.5
-C:\> activate tensorflow1
+C:\> activate tensorflowone
 ```
 
 ## Install Packages
@@ -24,7 +24,7 @@ C:\> activate tensorflow1
 * (tensorflowone)C:\> pip install Cython
 * (tensorflowone)C:\> pip install contextlib2
 * (tensorflowone)C:\> pip install jupyter
-*(tensorflowone)C:\> pip install matplotlib
+* (tensorflowone)C:\> pip install matplotlib
 * (tensorflowone)C:\> pip install pandas
 * (tensorflowone)C:\> pip install opencv-python
 ``` 
