@@ -10,17 +10,17 @@ C:\> activate tensorflow1
 
 ## Install Packages
 ``` bash
-(tensorflowone) C:\>python -m pip install --upgrade pip
-(tensorflowone):\> pip install --ignore-installed --upgrade tensorflow-gpu
-(tensorflowone)C:\> conda install -c anaconda protobuf
-(tensorflowone)C:\> pip install pillow
-(tensorflowone)C:\> pip install lxml
-(tensorflowone)C:\> pip install Cython
-(tensorflowone)C:\> pip install contextlib2
-(tensorflowone)C:\> pip install jupyter
-(tensorflowone)C:\> pip install matplotlib
-(tensorflowone)C:\> pip install pandas
-(tensorflowone)C:\> pip install opencv-python
+* (tensorflowone) C:\>python -m pip install --upgrade pip
+* (tensorflowone):\> pip install --ignore-installed --upgrade tensorflow-gpu
+* (tensorflowone)C:\> conda install -c anaconda protobuf
+* (tensorflowone)C:\> pip install pillow
+* (tensorflowone)C:\> pip install lxml
+* (tensorflowone)C:\> pip install Cython
+* (tensorflowone)C:\> pip install contextlib2
+* (tensorflowone)C:\> pip install jupyter
+*(tensorflowone)C:\> pip install matplotlib
+* (tensorflowone)C:\> pip install pandas
+* (tensorflowone)C:\> pip install opencv-python
 ``` 
 
 ## Create a folder with name tensorflow1 and paste the contents of this repository there.
