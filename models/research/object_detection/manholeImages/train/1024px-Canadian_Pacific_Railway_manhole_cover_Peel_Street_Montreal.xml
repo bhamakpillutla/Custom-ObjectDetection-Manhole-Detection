@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_ManHoles</folder>
+	<filename>1024px-Canadian_Pacific_Railway_manhole_cover_Peel_Street_Montreal.jpg</filename>
+	<path>D:\BhamaKrishna\Images_ManHoles\1024px-Canadian_Pacific_Railway_manhole_cover_Peel_Street_Montreal.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Manhole-Closed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>260</ymin>
+			<xmax>732</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

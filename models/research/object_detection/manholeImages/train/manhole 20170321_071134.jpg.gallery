@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_ManHoles</folder>
+	<filename>manhole 20170321_071134.jpg.gallery.jpg</filename>
+	<path>D:\BhamaKrishna\Images_ManHoles\manhole 20170321_071134.jpg.gallery.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Manhole-Closed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>127</ymin>
+			<xmax>556</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>redimges</folder>
+	<filename>20190509_095925.jpg</filename>
+	<path>D:\bhama krishna\results record\redimges\20190509_095925.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>3096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>outlet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>777</ymin>
+			<xmax>1801</xmax>
+			<ymax>2312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>outlet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2562</xmin>
+			<ymin>674</ymin>
+			<xmax>3940</xmax>
+			<ymax>2093</ymax>
+		</bndbox>
+	</object>
+</annotation>

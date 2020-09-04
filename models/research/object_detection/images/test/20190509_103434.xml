@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20190509_103434.jpg</filename>
+	<path>D:\bhama krishna\results record\images\20190509_103434.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>3096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inletround</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1117</xmin>
+			<ymin>119</ymin>
+			<xmax>3472</xmax>
+			<ymax>2309</ymax>
+		</bndbox>
+	</object>
+</annotation>

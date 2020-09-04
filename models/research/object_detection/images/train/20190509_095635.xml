@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newredimages</folder>
+	<filename>20190509_095635.jpg</filename>
+	<path>D:\bhama krishna\results record\newredimages\20190509_095635.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2064</width>
+		<height>1548</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>outlet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>214</ymin>
+			<xmax>1724</xmax>
+			<ymax>1414</ymax>
+		</bndbox>
+	</object>
+</annotation>

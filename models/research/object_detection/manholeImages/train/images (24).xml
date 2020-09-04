@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_ManHoles</folder>
+	<filename>images (24).jpg</filename>
+	<path>D:\BhamaKrishna\Images_ManHoles\images (24).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>278</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Manhole-Open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>121</ymin>
+			<xmax>212</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

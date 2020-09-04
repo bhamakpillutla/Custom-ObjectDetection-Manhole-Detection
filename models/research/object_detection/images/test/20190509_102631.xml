@@ -1,0 +1,26 @@
+<annotation>
+	<folder>redimges</folder>
+	<filename>20190509_102631.jpg</filename>
+	<path>D:\bhama krishna\results record\redimges\20190509_102631.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>3096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inletnumbers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2040</xmin>
+			<ymin>716</ymin>
+			<xmax>3498</xmax>
+			<ymax>2712</ymax>
+		</bndbox>
+	</object>
+</annotation>

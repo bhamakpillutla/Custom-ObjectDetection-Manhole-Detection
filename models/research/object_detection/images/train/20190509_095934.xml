@@ -1,0 +1,38 @@
+<annotation>
+	<folder>smallsizeimages</folder>
+	<filename>20190509_095934.jpg</filename>
+	<path>D:\bhama krishna\results record\smallsizeimages\20190509_095934.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2064</width>
+		<height>1548</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>outlet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>280</ymin>
+			<xmax>1066</xmax>
+			<ymax>1199</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>outlet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1353</xmin>
+			<ymin>328</ymin>
+			<xmax>2064</xmax>
+			<ymax>1114</ymax>
+		</bndbox>
+	</object>
+</annotation>

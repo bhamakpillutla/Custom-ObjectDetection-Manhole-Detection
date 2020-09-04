@@ -1,0 +1,22 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+download (1).jpg,300,168,Manhole-Closed,78,5,273,133
+images (41).jpg,266,189,Manhole-Closed,11,47,56,62
+images (41).jpg,266,189,Manhole-Closed,48,97,191,155
+images (41).jpg,266,189,Manhole-Closed,137,49,200,87
+images (41).jpg,266,189,Manhole-Closed,205,22,246,41
+images (52) - Copy.jpg,279,180,Manhole-Open,13,69,169,169
+images (52) - Copy.jpg,279,180,Manhole-Open,167,46,253,97
+images (52) - Copy.jpg,279,180,human,196,11,249,67
+images (52) - Copy.jpg,279,180,car,214,1,279,40
+images (52).jpg,279,180,Manhole-Open,14,70,175,171
+images (52).jpg,279,180,Manhole-Open,170,52,253,92
+images (52).jpg,279,180,human,197,17,257,68
+images (52).jpg,279,180,car,210,1,279,45
+images (65) - Copy.jpg,275,183,Manhole-Open,71,29,213,132
+images (90).jpg,253,199,Manhole-Open,94,104,140,129
+images (90).jpg,253,199,human,197,6,243,89
+images (94).jpg,295,171,Manhole-Closed,45,20,227,166
+images (94).jpg,295,171,human,234,2,293,118
+Mumbai_571_855.jpg,855,513,human,210,237,264,336
+Mumbai_571_855.jpg,855,513,car,314,136,389,205
+Mumbai_571_855.jpg,855,513,Manhole-Closed,224,430,319,455
