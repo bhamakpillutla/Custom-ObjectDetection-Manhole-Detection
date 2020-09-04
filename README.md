@@ -1,7 +1,7 @@
 
 # Manhole Detection
 
-
+This project identifies manholes- open and closed, persons and cars.
 
 ## Commands
 ## Create the tensorflow environment
@@ -63,4 +63,4 @@ python export_inference_graph.py --input_type image_tensor --pipeline_config_pat
 ```
 
 
-This project runs on tensorflow-gpu ==1.8 and protobuf == 3.7.0 without any errors and uses Tensorflow Object Detection Api
+This project runs on tensorflow-gpu ==1.8 and protobuf == 3.7.0 without any errors and uses Tensorflow Object Detection API.
