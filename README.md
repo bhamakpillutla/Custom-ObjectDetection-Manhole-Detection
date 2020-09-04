@@ -23,7 +23,7 @@ C:\> activate tensorflow1
 (tensorflowone)C:\> pip install opencv-python
 ``` 
 
-# Create a folder with name tensorflow1 and paste the contents of this repository there.
+## Create a folder with name tensorflow1 and paste the contents of this repository there.
 
 ```bash
 (tensorflowone) C:\> set PYTHONPATH=C:\tensorflow1\models;C:\tensorflow1\models\research;C:\tensorflow1\models\research\slim
