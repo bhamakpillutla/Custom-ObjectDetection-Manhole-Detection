@@ -5,7 +5,7 @@
 ```bash
 C:\> conda create -n tensorflowone pip python=3.5
 C:\> activate tensorflow1
-``` bash
+```
 
 ## Install Packages
 ``` bash
@@ -20,7 +20,7 @@ C:\> activate tensorflow1
 (tensorflowone)C:\> pip install matplotlib
 (tensorflowone)C:\> pip install pandas
 (tensorflowone)C:\> pip install opencv-python
-``` bash
+``` 
 
 # create a folder with name tensorflow1 and paste the contents of this repository there.
 
